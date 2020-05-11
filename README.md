@@ -2,16 +2,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/sagnik20/sagnik20.github.io?style=social)](https://github.com/sagnik20/sagnik20.github.io/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/sagnik20.github.io?style=social)](https://github.com/sagnik20/sagnik20.github.io/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-<!doctype html>
 <title>Sagnik Resume Site</title>
-<style>
-  body { text-align: center; padding: 150px; }
-  h1 { font-size: 50px; }
-  body { font: 20px Helvetica, sans-serif; color: #333; }
-  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
-  a { color: #dc8100; text-decoration: none; }
-  a:hover { color: #333; text-decoration: none; }
-</style>
+
 
 <article>
     <h1>You are redirected to http://sagnikc.azurewebsites.net/ </h1>

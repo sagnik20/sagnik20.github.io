@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/sagnik20/sagnik20.github.io?style=social)](https://github.com/sagnik20/sagnik20.github.io/network) [![GitHub stars](https://img.shields.io/github/stars/sagnik20/sagnik20.github.io?style=social)](https://github.com/sagnik20/sagnik20.github.io/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-<title>Sagnik Resume Site</title>
+<h3>Sagnik Resume Site</h3>
 
 
 <article>
